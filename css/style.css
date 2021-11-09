@@ -9,10 +9,18 @@ body {
   background-color: #22212c;
 }
 
+aside {
+  width: 800px;
+  float: right;
+  padding-left: 15px;
+  margin-left: 15px;
+}
+
 .tech {
   background-color: #22212d;
   border: 1px solid;
   border-radius: 25px;
+color: #837e9f;
 }
 
 text {
