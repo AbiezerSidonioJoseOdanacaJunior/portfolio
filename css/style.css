@@ -4,3 +4,28 @@
   --bg-cards: #302F3D;
   --bg-techs: #CB92B1;
 }
+
+body {
+  background-color: #22212c;
+}
+
+.tech {
+  background-color: #22212d;
+  border: 1px solid;
+  border-radius: 25px;
+}
+
+text {
+
+}
+
+.cards {
+  background-color: #fff;
+  border: 1px solide;
+  border-radius: 25px;
+}
+
+img {
+  width: 100px;
+  height: auto;
+}
